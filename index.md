@@ -345,7 +345,7 @@
     greater extent than any previous society. We are even told by experts how to
     eat, how to exercise, how to make love, how to raise our kids and so forth.
 
-## The Power Process
+## THE POWER PROCESS
 
 33. Human beings have a need (probably based in biology) for something that we
     will call the “power process.” This is closely related to the need for power
