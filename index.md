@@ -1,6 +1,6 @@
 # Industrial Society and Its Future (by Theodore John Kazynski)
 
-## DISCLAIMERS:
+## DISCLAIMERS
 
 1. The following text was initially published in the September 22nd, 1995 issue of the Washington Post.
 2. This text does not reflect my own opinions whatsoever.
