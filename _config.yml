@@ -3,3 +3,5 @@ description: by Theodore John Kaczynski
 url: "https://wibbuffey.github.io/manifesto/"
 markdown: GFM
 highlighter: rouge
+
+theme: jekyll-theme-cayman
