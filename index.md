@@ -2769,8 +2769,7 @@ into studying technical subjects, which most do grudgingly.
      his (well-sublimated) drive for power is stronger than that of the average
      bourgeois.
 
-
-    FINAL NOTE
+## FINAL NOTE
 
 231. Throughout this article we’ve made imprecise statements and statements that
      ought to have had all sorts of qualifications and reservations attached to them;
@@ -2798,7 +2797,7 @@ into studying technical subjects, which most do grudgingly.
      that no such movements have existed prior to modern leftism. This is a
      significant question to which historians ought to give their attention.
 
-Notes
+## NOTES
 
 1. (Paragraph 19) We are asserting that ALL, or even most, bullies and ruthless
    competitors suffer from feelings of inferiority.
@@ -3013,7 +3012,7 @@ cities had, in short, produced a more tractable, more socialized, more
 
 The lives of the three bank clerks are not IDENTICAL. Ideology does have SOME
 effect. But all technological societies, in order to survive, must evolve along
-## APPROXIMATELY the same trajectory.
+APPROXIMATELY the same trajectory.
 
 19. (Paragraph 123) Just think an irresponsible genetic engineer might create a
     lot of terrorists.
