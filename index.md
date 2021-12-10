@@ -1257,10 +1257,8 @@ success in attaining his goals.
      with the real world. Among primitive peoples the things that children are
      trained to do tend to be in reasonable harmony with natural human impulses.
      Among the American Indians, for example, boys were trained in active outdoor
-     pursuits—
-
-just the sort of thing that boys like. But in our society children are pushed
-into studying technical subjects, which most do grudgingly.
+     pursuits—just the sort of thing that boys like. But in our society children are
+     pushed into studying technical subjects, which most do grudgingly.
 
 116. Because of the constant pressure that the system exerts to modify human
      behavior, there is a gradual increase in the number of people who cannot or will
