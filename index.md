@@ -1191,8 +1191,7 @@ success in attaining his goals.
      conflicts with them one should carefully reexamine one’s thinking and retain the
      conclusion only if one has good, solid reasons for doing so.
 
-
-    INDUSTRIAL-TECHNOLOGICAL SOCIETY CANNOT BE REFORMED
+## INDUSTRIAL-TECHNOLOGICAL SOCIETY CANNOT BE REFORMED
 
 111. The foregoing principles help to show how hopelessly difficult it would be
      to reform the industrial system in such a way as to prevent it from
